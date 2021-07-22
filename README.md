@@ -23,4 +23,4 @@ My work steps:
 * I developed a "Shazam Genres" system that allows you to insert a song audio as a 3-second wav file, or alternatively record one of these from the notebook, I extracted the required data from it (as it appears in the dataset). Finally I activated the selected model and said what the genre of the given song is.
 
 The techniques I used and the success rates:
-![](https://github.com/HilaShoshan//MusicGenreClassification/tree/main/results/results_table.png)
+![](https://github.com/HilaShoshan//MusicGenreClassification/blob/main/results/results_table.png)
