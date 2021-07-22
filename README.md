@@ -24,3 +24,5 @@ My work steps:
 
 The techniques I used and the success rates:
 ![](https://github.com/HilaShoshan//MusicGenreClassification/blob/main/results/results_table.png)
+
+For details, it is worth taking a look at the notebook itself :)
