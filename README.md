@@ -4,7 +4,7 @@ Final Project Machine Learning Course
 A link to the datasets on Kaggle: 
 https://www.kaggle.com/andradaolteanu/gtzan-dataset-music-genre-classification
 
--> What I did? 
+-> What did I do? 
 
 I created a model (XGBooster Classifier) with 90% success which classifies 3 second audio files into the their genre, from the following list of genres:
 blues, classical, country, disco, hiphop, jazz, metal, pop, reggae and rock. 
